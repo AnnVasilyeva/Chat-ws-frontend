@@ -2,7 +2,7 @@
 
 [![Build status](https://ci.appveyor.com/api/projects/status/lb21l14ua5lelpsk?svg=true)](https://ci.appveyor.com/project/AnnVasilyeva/chat-ws-frontend)
 
-[Github Pages]()
+[Github Pages](https://annvasilyeva.github.io/Chat-ws-frontend/)
 
 Чат. Серверная часть реализована на Websocket. 
 
